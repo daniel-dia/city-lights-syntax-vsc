@@ -73,7 +73,7 @@
     "editorError.border": "#333F4A",
     "editorError.foreground": "#e27e8d",
 
-    "editorGutter.background": "#1D252C",
+    "editorGutter.background": "#141a1f",
     "editorGutter.addedBackground": "#8bd49c",
     "editorGutter.deletedBackground": "#e27e8d",
     "editorGutter.modifiedBackground": "#26506D",
@@ -152,7 +152,7 @@
     "panelTitle.inactiveForeground": "#b7c5d3",
 
     "peekView.border": "#333F4A",
-    "peekViewEditor.background": "#15232d",
+    "peekViewEditor.background": "#141a1f",
     "peekViewEditor.matchHighlightBackground": "#333F4A",
     "peekViewEditorGutter.background": "#333F4A",
     "peekViewResult.background": "#15232d",
@@ -203,11 +203,11 @@
     "statusBarItem.prominentBackground": "#171d23",
     "statusBarItem.prominentHoverBackground": "#333F4A",
 
-    "tab.activeBackground": "#1D252C",
-    "tab.activeForeground": "#fff",
+    "tab.activeBackground": "#141a1f",
+    "tab.activeForeground": "#B7C5D3",
     "tab.border": "#171d23",
-    "tab.activeBorder": "#1D252C",
-    "tab.inactiveBackground": "#171d23",
+    "tab.activeBorder": "#141a1f",
+    "tab.inactiveBackground": "#1D252C",
     "tab.inactiveForeground": "#b7c5d3",
     "tab.unfocusedActiveForeground": "#b7c5d3",
     "tab.unfocusedInactiveForeground": "#b7c5d3",
@@ -229,8 +229,8 @@
     "terminal.ansiBrightCyan": "#70e1e8",
     "terminal.ansiBrightWhite": "#ffffff",
 
-    "terminal.background": "#171d23",
-    "terminal.foreground": "#ffffff",
+    "terminal.background": "#0a0d10",
+    "terminal.foreground": "#B7C5D3",
     "terminalCursor.background": "#008B94",
     "terminalCursor.foreground": "#008B94",
 
