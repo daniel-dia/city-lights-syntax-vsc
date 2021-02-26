@@ -1,4 +1,4 @@
-# City Lights Color Theme
+# City Lights Darker Color Theme 
 
 ![Image of the city lights color theme](https://citylights.xyz/assets/images/theme/vsc-syntax.png)
 
